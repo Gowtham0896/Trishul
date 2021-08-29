@@ -32,6 +32,11 @@ Usage  :
          -h	Displays the usage details
 
 ```
+![image](https://user-images.githubusercontent.com/89718282/131238848-682a98ca-14a4-466a-a002-3bfde5d7e705.png)
+
+
+## Confirmation, If the tool is successfully installed in your Machine
+![image](https://user-images.githubusercontent.com/89718282/131238725-6f6effc9-01bf-4b3e-878c-78ae9bba49d4.png)
 
 ## How to scan a domain using trishul?
 
@@ -48,6 +53,9 @@ Steps:
 
 
 ```
+![image](https://user-images.githubusercontent.com/89718282/131238836-a5057613-1cfd-49a1-9feb-cc1b04b97f60.png)
+
+
 
 ## Features
 * XSS Check with payload automation
