@@ -16,6 +16,7 @@ chmod +x install.sh
 ```
 You will get a prompt if the installation was successful
 
+
 ## Usage
 
 ```bash
@@ -32,8 +33,21 @@ Usage  :
 
 ```
 
+## How to scan a domain using trishul?
+
+```bash
+
+Steps:
+1. Select your domain i.e if your target is vtop.vit.ac.in then our target domain will be vit.ac.in
+2. Create a text file with our target domain within
+         nano target.txt         ##### nano is a cli text editor which creates and openes a file named "target.txt"
+         vit.ac.in               ##### Enter your targeyt Domain
+         Ctrl+S ; Ctrl+X         ##### S to save and X to exit
+3. Considering that you are in /Might folder
+         ./run.sh -t target.txt -M
 
 
+```
 
 ## Features
 * XSS Check with payload automation
